@@ -1,3 +1,5 @@
+##### DISCLAIMER: This is only a public copy of my private repository on _Revealing compensation mechanisms in Hodkin-Huxley type models with simulation based inference_. This repository contains all the code that I wrote, but not any of the data.
+-------------
 ### Revealing compensation mechanisms in Hodkin-Huxley type models with simulation based inference
 In this repository I will try to document the progress I make trying to find compensatory mechanisms in Hodgkin-Huxley-like neurons. This is the second lab rotation project of my master's degree. I will add resources, references, findings and code as I go.
 
