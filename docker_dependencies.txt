@@ -1,0 +1,13 @@
+numpy
+matplotlib
+sbi
+brian2
+pybind11
+pandas
+scipy
+joblib
+tqdm
+seaborn
+jupyter
+sklearn
+
